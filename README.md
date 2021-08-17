@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/kharchenkolab/simulatedNMF.svg?branch=main)](https://travis-ci.com/github/kharchenkolab/simulatedNMF)
-
+[![<kharchenkolab>](https://circleci.com/gh/kharchenkolab/simulatedNMF.svg?style=svg)](https://app.circleci.com/pipelines/github/kharchenkolab/simulatedNMF)
 
 # simulatedNMF
 
