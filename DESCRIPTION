@@ -1,0 +1,15 @@
+Package: simulatedNMF
+Title: Package for vrnmf data
+Version: 1.0.0
+Authors@R: c(person("Ruslan", "Soldatov", email = "ruslansoldatov@gmail.com", role = c("aut")), person("Peter", "Kharchenko", email = "peter_kharchenko@hms.harvard.edu", role = "aut"), person("Evan", "Biederstedt", email="evan.biederstedt@gmail.com", role=c("cre", "aut")))
+Description: Data used by vrnmf tutorials, simulated NMF matrices
+License: GPL-3 
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5.0)
+RoxygenNote: 7.1.1
+URL: https://github.com/kharchenkolab/simulatedNMF
+BugReports: https://github.com/kharchenkolab/simulatedNMF/issues
+Author: Ruslan Soldatov [aut], Peter Kharchenko [aut], Evan Biederstedt [cre, aut]
+Maintainer: Evan Biederstedt <evan.biederstedt@gmail.com>
