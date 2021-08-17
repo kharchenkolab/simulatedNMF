@@ -5,7 +5,7 @@
 
 Package with data used by the [vrnmf package](https://github.com/kharchenkolab/vrnmf).
 
-The data within this package simulatedNMF are simulated NMF matrices created by the internal function `sim_factors()`, whereby the *rda file simnmf.rda is approximately 8 MB in size.
+The data within this package simulatedNMF are simulated NMF matrices created by the internal function `vrnmf:::sim_factors()`, whereby the *rda file simnmf.rda is approximately 8 MB in size.
 
  
 ## Installation
